@@ -5,4 +5,4 @@ A growth mindset believes that one's fundamental abilities can be devoloped thro
 ### Effort
 - *Pushing myself to do more.*
 
-https://mwash223.github.io/reading-notes/
+(My Markdown link)https://mwash223.github.io/reading-notes/

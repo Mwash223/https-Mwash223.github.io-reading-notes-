@@ -3,4 +3,4 @@
 ## *Staying on Task*
 -*Focusing more on work needed to be finished.*
 ### Effort
-Time management
+*Pushing myself to do more.*

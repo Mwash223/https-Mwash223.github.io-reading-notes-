@@ -1,7 +1,7 @@
 # Growth Mindset Notes
 
 ## heading
-+Staying on Task
+_Staying on Task
 
 ### subheading
 Time management

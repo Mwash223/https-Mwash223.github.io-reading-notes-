@@ -2,5 +2,5 @@
 
 ## *Staying on Task*
 
-### subheading
+### Effort
 Time management

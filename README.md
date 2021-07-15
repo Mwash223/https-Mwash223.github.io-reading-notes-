@@ -1,9 +1,5 @@
-# Growth Mindset Notes
-A growth mindset believes that one's fundamental abilities can be devoloped through perservance and effort; intelligence and talent are simply good starting points. A growth is synonymous with a love of learning.
-## *Staying on Task*
--*Focusing more on work needed to be finished.*
-### Effort
--*Pushing myself to do more.*
+Hello, I'm Malik Washington. I've worked at Fedex,MetroPcs and places like DHL for the year. I graduated 2019 with a gpa above an 3.2. I love boosting my knowledge, and seeing others do the same. I hate that we are viewed as the dumbest race. i love to prove the world wrong not far as saying anyone should be, but embracing our minds. I just want this to be a way we all impact the world.
 
 (My Markdown) 
 [My Markdown](https://mwash223.github.io/reading-notes/markeddownnotes)
+[growth mindset](https://mwash223.github.io/reading-notes/effort)

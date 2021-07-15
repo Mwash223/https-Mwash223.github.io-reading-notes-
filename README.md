@@ -13,6 +13,6 @@ Hello, I'm Malik Washington. I've worked at Fedex,MetroPcs and places like DHL f
 
 [Web pages with JavaScript]()
 
-[Programming with JavaScript]()
+[Programming with JavaScript](https://github.com/Mwash223/reading-notes/blob/main/programmingwithjavascript.md)
 
 [Operators and Loops]()

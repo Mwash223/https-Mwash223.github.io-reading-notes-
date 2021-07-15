@@ -11,7 +11,7 @@ Hello, I'm Malik Washington. I've worked at Fedex,MetroPcs and places like DHL f
 
 [Design web pages with CSS](https://github.com/Mwash223/reading-notes/blob/main/designwebpagewithcss.md)
 
-[Web pages with JavaScript]()
+[Web pages with JavaScript](https://github.com/Mwash223/reading-notes/blob/main/pageswithjavascript.md)
 
 [Programming with JavaScript](https://github.com/Mwash223/reading-notes/blob/main/programmingwithjavascript.md)
 

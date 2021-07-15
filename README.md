@@ -2,6 +2,17 @@ Hello, I'm Malik Washington. I've worked at Fedex,MetroPcs and places like DHL f
 
 
 [My Markdown](https://mwash223.github.io/reading-notes/markeddownnotes)
+
 [Growth mindset](https://mwash223.github.io/reading-notes/effort)
-[My Markdown](https://mwash223.github.io/reading-notes/markeddownnotes)<br>
+
+[The Coder's Computer]()
+
 [Structure with Html](https://github.com/Mwash223/reading-notes/Reflection&Discussion)
+
+[Design web pages with CSS]()
+
+[Web pages with JavaScript]()
+
+[Programming with JavaScript]()
+
+[Operators and Loops]()

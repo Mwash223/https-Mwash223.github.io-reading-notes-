@@ -5,7 +5,7 @@ Hello, I'm Malik Washington. I've worked at Fedex,MetroPcs and places like DHL f
 
 [Growth mindset](https://mwash223.github.io/reading-notes/effort)
 
-[The Coder's Computer]()
+[The Coder's Computer](https://github.com/Mwash223/reading-notes/blob/main/thecodercomputer.md)
 
 [Structure with Html](https://github.com/Mwash223/reading-notes/Reflection&Discussion)
 
